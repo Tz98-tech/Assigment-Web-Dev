@@ -1,3 +1,10 @@
-* {
-    background-color: brown;
+nav {
+    display: flex;
+    justify-content: center; /* this shuld alighn the center of the nav TBC*/
+    align-items: center;
+    padding: 10px 15px;
+    border-radius: 50px; /*this should be rounded corner also tbc*/
+    cursor: pointer;
+    background-color: rgb(188, 186, 186);
+    transition: background-color 0.4s ease;
 }
