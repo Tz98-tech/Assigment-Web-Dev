@@ -24,7 +24,7 @@ nav ul li a:hover {
     background-color: rgb(167, 167, 167); /* found syntax here as this is invalid css*/
 }
 
-text {
+.text {
     display: flex;
     border-radius: 60px;
     background-color: #da0000;
